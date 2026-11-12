@@ -1,5 +1,27 @@
 {
   "dependencies": {
-    "express": "^5.3.0"
-  }
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "mongodb": "^7.8.0"
+  },
+  "name": "hireloop-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayman392/Hireloop-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ayman392/Hireloop-server/issues"
+  },
+  "homepage": "https://github.com/Ayman392/Hireloop-server#readme"
 }
